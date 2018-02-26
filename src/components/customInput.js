@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export default class YearData extends Component{
+export default class customInput extends Component{
 
     render() {
         return(
